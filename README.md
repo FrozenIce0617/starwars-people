@@ -25,6 +25,8 @@ This project was created using the following technologies:
 - Axios
 - React Router
 - TailWind CSS
+- Context API
+- React Hooks
 
 ## License
 
