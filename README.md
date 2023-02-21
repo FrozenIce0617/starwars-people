@@ -24,7 +24,7 @@ This project was created using the following technologies:
 - TypeScript
 - Axios
 - React Router
-- Styled Components
+- TailWind CSS
 
 ## License
 
